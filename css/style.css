@@ -1411,6 +1411,12 @@ figure.agileits_effect_moses:hover img {
   border: none;
 }
 
+.agileits_mail_grid_right1 input[type='submit'].google-auth {
+  background: none;
+  /* border: 2px solid #a0d034 */
+  box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.1);
+}
+
 .agileits_mail_grid_right1 a {
   color: #a4dd25;
   /* display: block; */
